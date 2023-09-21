@@ -1,5 +1,7 @@
+
 body {
 	text-align: center;
+
 }
 
 /*------------ HEADER NAV ------------*/
@@ -9,6 +11,7 @@ header {
 	font-family: "LatoMedium";
 	font-size: 25px;
 	color: #243359;
+
 }
 
 header a {
