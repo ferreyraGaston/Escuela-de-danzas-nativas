@@ -1,0 +1,62 @@
+/* ----------- SECTION BLOG ----------- */
+article {
+	text-align: left;
+	color: black;
+	margin-bottom: 30px;
+}
+
+.blog-bg {
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	height: 200px;
+}
+
+.blog-1 {
+	background-image: url(../img/blog1.jpg);
+}
+
+.blog-2 {
+	background-image: url(../img/profesor_5.jpg);
+}
+
+.blog-3 {
+	background-image: url(../img/instructor_1.jpg);
+}
+
+.blog img {
+	width: 100%;
+	object-fit: cover;
+	display: inline-block;
+}
+
+article h2{
+	font-size: 15px;
+	margin-top: 10px;
+}
+
+article h5{
+	margin: 6px 0;
+	font-size: 14px;
+	font-style: italic;
+	color: #A4A4A4;
+}
+
+article p {
+	font-size: 13px;
+	margin-bottom: 30px;
+}
+
+.bg-article {
+	height: 200px;
+	display: inline-block;
+	background-color: #CDCDCD;
+	padding: 10px 0 0 40px;
+}
+
+.bg-article a {
+	background-color: #192951;
+	text-decoration: none;
+	color: white;
+	padding: 10px 70px;
+	border-radius: 4px;
+}

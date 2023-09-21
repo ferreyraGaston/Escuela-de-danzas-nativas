@@ -1,0 +1,79 @@
+/*----------- SECTION ABOUTUS ------------*/
+
+.bg-img-us {
+	background-image: url(../img/dance_7.jpg);
+	height: 350px;
+}
+
+.about-description {
+	color: white;
+	margin: 0 auto;
+	text-align: center;
+	width: 500px;
+	margin-top: 70px;
+	padding: 50px 30px;
+	background-color: rgba(0, 0, 0, 0.4);
+}
+
+.about-description h1 {
+	font-size: 22px;
+}
+
+.about-description p {
+	margin-top: 15px;
+}
+
+/*----------- SECTION VALUES --------------*/
+
+.values {
+	padding: 100px 120px;
+	background-image: url(../img/cubes.png);
+	color: #9C9C9C;
+	font-size: 15px;
+}
+
+.values .col-4 {
+	padding: 0 60px;
+}
+
+.values h3 {
+	border-bottom: 1px solid #9C9C9C;
+	padding-bottom: 15px;
+	font-size: 20px;
+}
+
+.values p {
+	margin-top: 15px;
+}
+
+/*------------ SECTION TRAINERS -----------*/
+
+.trainers {
+	padding: 0 100px;
+}
+
+.trainers h1 {
+	margin: 50px 0;
+}
+
+.trainers h4 {
+	margin: 15px 0;
+}
+
+.trainers p {
+	margin-bottom: 80px;
+}
+
+.trainers img{
+	width: 100%;
+	height: 180px;
+	object-position: 0 0;
+	object-fit: cover;
+}
+
+.phrase {
+	background-image: url(../img/cubes.png);
+	font-size: 40px;
+	font-style: italic;
+	padding: 80px 15%;
+}

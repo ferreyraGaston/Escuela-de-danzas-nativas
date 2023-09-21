@@ -1,0 +1,46 @@
+/*------------ SECTION OFFERS ----------*/
+
+.offers h2, p {
+	font-size: 13px;
+}
+
+.bg-classes-1 {
+	background-image: url(../img/dance_12.jpg);
+}
+
+.bg-classes-2 {
+	background-image: url(../img/breakdance.jpg);
+}
+
+.bg-classes-3 {
+	background-image: url(../img/lirical-jazz.jpg);
+}
+
+.bg-classes-4 {
+	background-image: url(../img/arabe.jpg);
+}
+
+.bg-classes-5 {
+	background-image: url(../img/little.jpg);
+}
+
+.bg-classes-6 {
+	background-image: url(../img/dance_13.jpg);
+}
+
+.bg-height {
+	background-size: 90%;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 370px;
+}
+
+.bg-class {
+	background: rgba(0,0,0,0.5);
+	margin: 120px 30px;
+	padding: 40px;
+}
+
+.offers .row:last-child {
+	margin-top: 20px;
+}
